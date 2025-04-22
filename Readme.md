@@ -1,5 +1,9 @@
 # 4-BIT RIPPLE CARRY ADDER
 
+#### Name:- Jaiyantan S 
+#### Reg_no:- 212224100021
+#### Question:- 4-BIT-RIPPLE-CARRY-ADDER
+
 ### AIM:
 
 To implement a 4-bit Ripple Carry Adder using Verilog and validate its functionality by observing the sum and carry-out values.
